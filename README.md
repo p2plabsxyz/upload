@@ -1,4 +1,4 @@
-peersky://p2p/upload/
+# peersky://p2p/upload/
 
 Drag and drop files and folders to publish them to DWeb
 
